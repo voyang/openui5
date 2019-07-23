@@ -21,3 +21,6 @@ http://www.url-bot.com/201/
 https://sap.github.io/cloud-s4ext/
 openSAP: Extending SAP S/4HANA with SAP HANA Cloud Platform
 
+http://www.mhfclaw.com/
+SAP基础教程
+
