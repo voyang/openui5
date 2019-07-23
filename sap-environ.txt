@@ -27,5 +27,7 @@ SAP基础教程
 https://mafiadoc.com/beginners-guide-to-sap-abap_59eeea3f1723dd01ede6b5ec.html
 Beginner's Guide To SAP ABAP .pdf
 
+https://www.youtube.com/playlist?list=PLyH9U1E43FYqVqAb0wUSpHlP0c3sq6Vwo
+SAP ABAP Tutorials
 
-
+https://www.youtube.com/channel/UC9zseMAIn9yyULDZVTExxLg/videos
