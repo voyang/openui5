@@ -24,3 +24,8 @@ openSAP: Extending SAP S/4HANA with SAP HANA Cloud Platform
 http://www.mhfclaw.com/
 SAP基础教程
 
+https://mafiadoc.com/beginners-guide-to-sap-abap_59eeea3f1723dd01ede6b5ec.html
+Beginner's Guide To SAP ABAP .pdf
+
+
+
