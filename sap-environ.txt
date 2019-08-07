@@ -1,2 +1,35 @@
 http://www.kodyaz.com/sap-abap/install-sap-free-trial-edition-on-opensuse-linux-on-virtualbox.aspx
 https://www.sap.com/japan/developer/trials-downloads/additional-downloads/sap-netweaver-as-abap-developer-edition-sp02-7-51-14493.html
+https://www.sap.com/documents/2018/09/1cefb289-1c7d-0010-87a3-c30de2ffd8ff.html
+https://www.sap.com/developer/trials-downloads/additional-downloads/sap-netweaver-as-abap-developer-edition-sp01-7-52-15510.html
+https://download.opensuse.org/distribution/leap/15.1/iso/openSUSE-Leap-15.1-DVD-x86_64.iso?mirrorlist
+
+SAP GUI 750 双版本下载
+https://axyt.net/sap-gui-750-shuang-ban-ben-xia-zai/
+
+91SAP FICO入门免费课程免费
+https://ke.qq.com/course/77162?taid=173959060467050
+
+014年SAP Basis基础管理培训视频14课 60分钟试听样品
+http://pan.baidu.com/s/1eQnJRPo
+
+https://www.sap520.com/
+
+http://www.url-bot.com/201/
+
+
+https://sap.github.io/cloud-s4ext/
+openSAP: Extending SAP S/4HANA with SAP HANA Cloud Platform
+
+http://www.mhfclaw.com/
+SAP基础教程
+
+https://mafiadoc.com/beginners-guide-to-sap-abap_59eeea3f1723dd01ede6b5ec.html
+Beginner's Guide To SAP ABAP .pdf
+
+https://www.youtube.com/playlist?list=PLyH9U1E43FYqVqAb0wUSpHlP0c3sq6Vwo
+SAP ABAP Tutorials
+
+https://www.youtube.com/channel/UC9zseMAIn9yyULDZVTExxLg/videos
+
+http://www.itpub.net/thread-2087698-1-2.html
